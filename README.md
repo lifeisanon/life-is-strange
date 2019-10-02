@@ -1,7 +1,6 @@
-
-a public website about my favourite game
-<body background="https://img1.goodfon.com/wallpaper/nbig/0/4c/life-is-strange-hloya-maks.jpg">
-<font color="white"</font>
+<!DOCTYPE html>
+<html>
+<body background="https://img1.goodfon.com/wallpaper/nbig/0/4c/life-is-strange-hloya-maks.jpg"> <font color="white"</font>
 
 <h3><u>life is strange</u></h3>
 
@@ -18,6 +17,7 @@ life is strange and life is strange 2 have helped me through so many rough patch
 <p>
 
 <html>
+  
 <body>
 <h1>next page.</h1>
 <p>
@@ -25,9 +25,4 @@ life is strange and life is strange 2 have helped me through so many rough patch
 </p>
 </body>
 
-</html>
-
-</p>
-
-</body>
 </html>
