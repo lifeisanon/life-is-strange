@@ -1,4 +1,4 @@
-# lifeisstrange
+
 a public website about my favourite game
 <body background="https://img1.goodfon.com/wallpaper/nbig/0/4c/life-is-strange-hloya-maks.jpg">
 <font color="white"</font>
