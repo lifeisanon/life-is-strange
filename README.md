@@ -1,6 +1,5 @@
 # lifeisstrange
 a public website about my favourite game
-<head><title>yes</title></head>
 <body background="https://img1.goodfon.com/wallpaper/nbig/0/4c/life-is-strange-hloya-maks.jpg">
 <font color="white"</font>
 
@@ -19,9 +18,6 @@ life is strange and life is strange 2 have helped me through so many rough patch
 <p>
 
 <html>
-<head>
-<title>life is strange</title>
-</head>
 <body>
 <h1>next page.</h1>
 <p>
